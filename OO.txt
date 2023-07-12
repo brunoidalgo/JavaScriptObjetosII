@@ -1,0 +1,64 @@
+Oque São ?
+
+Abordagens sobre como resolver problemas de programação, baseadas em uma teoria ou conjunto de principios definidos.
+
+
+Alguns paradigmas:
+
+- Imperativo;
+- Relacional; --> Bancos de dados.
+- Declarativo;
+
+Orientação a objetos:
+
+Parte da premisse de aproximar a modelagem de código com o mundo real, estruturada com objetos, propriedades, ações [ métodos ], que interagem uns com os outros.
+
+Classe é um molde para formar outros objetos;
+
+Principios da OO:
+
+- Classe;
+- Objeto;
+- Herança;
+- Polimorfismo;
+- Encapsulamento;
+
+
+SOLID {
+
+- Single responsibility principle (princípio de responsabilidade unica) {
+
+    - Separar as classes por funcionalidade no código, como uma classe User e outra de Pagamento.
+
+}
+
+ - Open/Closed Principle (Princípio do aberto/fechado) {
+
+    - Adiciona um novo método que atende a uma demanda. {
+
+        Deminui a probabilidade de implementar bug`s.
+
+    }
+
+ }
+
+
+
+- Liskov Substituiton Principle (Princípio da substituição de Liskov) {
+
+    - Se uma classe tem algo a sub-classe também tem que ter...
+
+}
+
+
+- Interface Segregation Principle (Princípio da segregação de interface) {
+
+    - Não pode utilizar métodos restritos ou desnecessários, não precisa ter um método que não vai usar...{
+
+        - 
+
+    }
+
+}
+
+}
